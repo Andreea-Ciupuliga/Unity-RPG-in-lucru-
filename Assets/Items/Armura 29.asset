@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5879a8042fda50d4da78895682bd0a83, type: 3}
+  m_Name: Armura 29
+  m_EditorClassIdentifier: 
+  name: Armura 29
+  icon: {fileID: 21300000, guid: a9e01018ce7f52442be7616fd6a71656, type: 3}
+  isDefaultItem: 0
+  equipSlot: 1
+  armorModifier: 145
+  damageModifier: 29
+  mesh: {fileID: 6738308188233821535, guid: b80ac5e9196b53e4793ad032916ccae9, type: 3}
+  coveredMeshRegions: 

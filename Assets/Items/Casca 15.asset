@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5879a8042fda50d4da78895682bd0a83, type: 3}
+  m_Name: Casca 15
+  m_EditorClassIdentifier: 
+  name: Casca 15
+  icon: {fileID: 21300000, guid: ad5f740d2b9ad5949a997201d9afac0a, type: 3}
+  isDefaultItem: 0
+  equipSlot: 0
+  armorModifier: 45
+  damageModifier: 15
+  mesh: {fileID: 860646954235342118, guid: 251b553963bf4b24da4da5c03ff24b91, type: 3}
+  coveredMeshRegions: 

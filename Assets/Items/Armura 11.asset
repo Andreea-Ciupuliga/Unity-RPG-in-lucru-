@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5879a8042fda50d4da78895682bd0a83, type: 3}
+  m_Name: Armura 11
+  m_EditorClassIdentifier: 
+  name: Armura 11
+  icon: {fileID: 21300000, guid: de4efe22b67ad96419d5b6feb52b5ad1, type: 3}
+  isDefaultItem: 0
+  equipSlot: 1
+  armorModifier: 55
+  damageModifier: 11
+  mesh: {fileID: 8009784646412569390, guid: aefb0929f9e4f3444b16e9fb194e8470, type: 3}
+  coveredMeshRegions: 
