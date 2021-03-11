@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5879a8042fda50d4da78895682bd0a83, type: 3}
+  m_Name: Scut 3
+  m_EditorClassIdentifier: 
+  name: Scut 3
+  icon: {fileID: 21300000, guid: 77d5a33038c8cb74997e1d66847512fb, type: 3}
+  isDefaultItem: 0
+  equipSlot: 3
+  armorModifier: 0
+  damageModifier: 0
+  mesh: {fileID: 3280877518965999952, guid: 34585ea9991b17343954bc5f9fe489d1, type: 3}
+  coveredMeshRegions: 
